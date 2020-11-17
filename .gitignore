@@ -1,9 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
+*.ipynb
 FIELD_TIMEascit.txt
-
-# dependencies
-
 
 # testing
 /coverage
@@ -12,5 +9,5 @@ FIELD_TIMEascit.txt
 /build
 
 # misc
-.vscode
-.ipynb_checkpoints
+.vscode/
+.ipynb_checkpoints/

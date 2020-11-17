@@ -1,2 +1,1 @@
-cpu time for coefficients          =304.1337411403656
- cpu time for rom                   =0.42002415657043457
+cpu time for coefficients          =284.62948298454285cpu time for rom                   =0.4610135555267334
